@@ -1,0 +1,2 @@
+ERROR - 2025-11-03 17:24:20,388 - readyaml.py:28 -[readyaml:get_testcase_yaml] - [./testcase/Business interface/BusinessScenario.yml]文件未找到，请检查路径是否正确
+ERROR - 2025-11-03 17:24:55,564 - readyaml.py:28 -[readyaml:get_testcase_yaml] - [./testcase/Business interface/BusinessScenario.yml]文件未找到，请检查路径是否正确
